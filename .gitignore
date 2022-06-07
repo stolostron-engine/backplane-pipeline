@@ -1,0 +1,12 @@
+# Ignore the build harness
+.build-harness-bootstrap
+build-harness
+build-harness-extensions
+
+# Ignore any log files or vi .swp files
+*.log
+*.swp
+.project
+
+# Ignore Mac-ness
+.DS_Store
